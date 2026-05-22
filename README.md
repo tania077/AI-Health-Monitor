@@ -2,7 +2,7 @@
 
 An AI-powered health monitoring dashboard that analyzes patient vitals in real-time. Built as a beginner-friendly project demonstrating AI API integration, health data visualization, and modern web UI design.
 
-![AI Health Monitor](https://img.shields.io/badge/Status-Active-00f5c4) ![HTML](https://img.shields.io/badge/HTML5-orange) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) ![Claude AI](https://img.shields.io/badge/Claude_AI-purple)
+![AI Health Monitor](https://img.shields.io/badge/Status-Active-00f5c4) ![HTML](https://img.shields.io/badge/HTML5-orange) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) 
 
 ---
 
