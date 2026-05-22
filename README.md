@@ -101,10 +101,6 @@ This project is for **educational and portfolio purposes only**. It is **not a m
 
 ---
 
-## 🙋 Author
-
-**Your Name**  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
 
 ---
 
